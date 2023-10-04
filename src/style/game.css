@@ -1,0 +1,14 @@
+.boxx{
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cards{
+    height: 25vh;
+    border: 1px solid;
+    width: 16.667%;
+}
+.contain{
+    
+}
